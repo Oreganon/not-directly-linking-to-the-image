@@ -25,3 +25,7 @@ Firefox:
 Chrome OsKrappa:
 
 <img src="https://raw.githubusercontent.com/Oreganon/not-directly-linking-to-the-image-autistiny-clap/master/2019-01-26_01-26.png" alt="godstiny" />
+
+## But im using shitty screenshot software that doesnt give direct links
+
+Install and use [https://getsharex.com/](https://getsharex.com/) on windows or [https://github.com/lupoDharkael/flameshot](https://github.com/lupoDharkael/flameshot) on gnu/linux systems.
