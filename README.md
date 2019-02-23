@@ -1,4 +1,4 @@
-# How to directly link to an image and not be an AUTISTINY
+# How to directly link to an image and not waste everybodys time
 
 If youre reading this you linked to an imgur album or a gfycat page or some other shitty site instead of directly linking to the image. Loading the site wastes the time of everyone clicking your link when you only wanted to show them a image and they only wanted to see the image. The site doesnt add any value to anybody involed. 
 
