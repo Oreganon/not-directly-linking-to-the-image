@@ -1,6 +1,6 @@
 # How to directly link to an image
 
-If youre reading this you linked to an imgur album or a gfycat page instead of directly linking to the image. Loading the site wastes the time of everyone clicking your link when you only wanted to show them a image and they only wanted to see the image. The site doesnt add any value to anybody involed. 
+If youre reading this you linked to an imgur album or a gfycat page instead of directly linking to the image. Loading the site wastes the time of everyone clicking your link when you only wanted to show them a image and they only wanted to see the image. The site doesnt add any value to anybody involved. 
 
 Take this link for example: https://imgur.com/a/xwTSWon 
 
